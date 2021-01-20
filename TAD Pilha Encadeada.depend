@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587306111 source:c:\users\cliente\desktop\tad pilha encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+
